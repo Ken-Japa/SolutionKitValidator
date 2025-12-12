@@ -1,0 +1,5 @@
+{
+  "name": "SolutionKit Validator",
+  "description": "A Micro-SaaS validation platform using 'Fake Door' testing to gauge market demand for specific problem-solving tools.",
+  "requestFramePermissions": []
+}
